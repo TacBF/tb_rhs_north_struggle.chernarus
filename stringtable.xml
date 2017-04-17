@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_North_Struggle">
+
+	<Key ID="STR_TB_missionTitle_TB_North_Struggle">
+		<Original>North Struggle</Original>
+		<English>North Struggle</English>
+		<German>North Struggle</German>
+		<Italian>North Struggle</Italian>
+		<Spanish>North Struggle</Spanish>
+		<French>North Struggle</French>
+		<Czech>North Struggle</Czech>
+		<Russian>North Struggle</Russian>
+		<Polish>North Struggle</Polish>
+		<Hungarian>North Struggle</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_North_Struggle">
+		<Original>TacBF A&amp;S[L-50]: North Struggle</Original>
+		<English>TacBF A&amp;S[L-50]: North Struggle</English>
+		<German>TacBF A&amp;S[L-50]: North Struggle</German>
+		<Italian>TacBF A&amp;S[L-50]: North Struggle</Italian>
+		<Spanish>TacBF A&amp;S[L-50]: North Struggle</Spanish>
+		<French>TacBF A&amp;S[L-50]: North Struggle</French>
+		<Czech>TacBF A&amp;S[L-50]: North Struggle</Czech>
+		<Russian>TacBF A&amp;S[L-50]: North Struggle</Russian>
+		<Polish>TacBF A&amp;S[L-50]: North Struggle</Polish>
+		<Hungarian>TacBF A&amp;S[L-50]: North Struggle</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
